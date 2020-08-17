@@ -10,5 +10,5 @@
 - 🤔 I’m looking for help with ... getting better at Full Stack Development
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... [Twitter](https://twitter.com/nikhilrwadekar), [LinkedIn](https://www.linkedin.com/in/nwadekar/)
-- 😄 Pronouns: ... 
+- 😄 Pronouns: ... he
 - ⚡ Fun fact: ... I love cars and I'd like to drift some before I die
